@@ -99,9 +99,6 @@ public class HotelBooking {
     driver.close();
   
 	}
-	
-	
-	
-	
+
 }
 
